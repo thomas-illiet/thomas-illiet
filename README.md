@@ -7,7 +7,7 @@
 <li>🛠   I’m currently working with .NET, PoerShell, OData, SQLServer, etc.</li>
 <li>🚀   Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>.</li>
 <li>👨🏻‍💻   Most of my projects are available on <a href="https://github.com/thomas-illiet">Github</a>.</li>
-<li>📫   Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>📫   Ping me about <strong>.Net, PowerShell, Security, and Cloud stuff</strong>.</li>
 <li>📝   Check out my <a href="https://www.linkedin.com/in/thomas-illiet">resume</a>.</li>
 <li>👾 Fun fact: Equal is Not Always Equal in Javascript.</li>
 </ul>
