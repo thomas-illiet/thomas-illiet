@@ -51,7 +51,7 @@ const factsConfigs = [
     `🛠   I’m currently working with .NET, PoerShell, OData, SQLServer, etc.`,
     `🚀   Learning about **serverless architectures**, **distributed systems**.`,
     `👨🏻‍💻   Most of my projects are available on [Github](https://github.com/thomas-illiet).`,
-    `📫   Ping me about **react, koa, security, and cloud stuff**.`,
+    `📫   Ping me about **.Net, PowerShell, Security, and Cloud stuff**.`,
     `📝   Check out my [resume](https://www.linkedin.com/in/thomas-illiet).`,
     `👾 Fun fact: Equal is Not Always Equal in Javascript.`,
 ];
