@@ -45,7 +45,7 @@ const badgeConfigs = [{
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
-const gif = `<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />`;
+const gif = `<img align="right" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />`;
 const factsTitle = generateTitle(2, `:zap: A Few Quick Facts`);
 const factsConfigs = [
     `🛠   I’m currently working with .NET, PoerShell, OData, SQLServer, etc.`,
@@ -61,7 +61,7 @@ const favoritesTitle = generateTitle(2, `:zap: My Absolute Favorites:`);
 const favoritesConfigs = [
     `💻   I love exploring new tech stack and building cool stuffs.`,
     `📰   Reading & writing tech blogs whenever possible.`,
-    `🍕   Hackathons, meetups & tech events.`
+    `🍕   Meetups & tech events ( *with bonus beers* ).`
 ];
 const favorites = favoritesConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
 
@@ -102,7 +102,7 @@ const toolsConfig = [{
 ];
 const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generateIcon(toolConfig, toolsIconSize), '');
 
-const stats = `<img src="https://github-readme-stats.vercel.app/api?username=thomas-illiet&show_icons=true&count_private=true" alt="spiderpig86" />`;
+const stats = `<img src="https://github-readme-stats.vercel.app/api?username=thomas-illiet&show_icons=true&count_private=true"/>`;
 
 const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=thomas-illiet.thomas-illiet)`;
 
@@ -117,7 +117,9 @@ ${facts}\n
 ${favoritesTitle}\n
 ${favorites}\n
 ${toolsTitle}\n
-${tools}\n
+<p align="left">\n
+    ${tools}\n
+</p>\n
 ${stats}\n
 ${visitors}
 `;
