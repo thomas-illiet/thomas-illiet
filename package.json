@@ -1,0 +1,25 @@
+{
+  "name": "thomas-illiet",
+  "version": "1.0.0",
+  "description": "Personal README.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas-illiet/thomas-illiet.git"
+  },
+  "author": "Stanley Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomas-illiet/thomas-illiet/issues"
+  },
+  "homepage": "https://github.com/thomas-illiet",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "markdown-it": "^11.0.0",
+    "markdown-it-emoji": "^1.4.0"
+  }
+}
