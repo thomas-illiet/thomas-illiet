@@ -53,13 +53,13 @@ const factsConfigs = [
     `👨🏻‍💻   Most of my projects are available on [Github](https://github.com/thomas-illiet).`,
     `📫   Ping me about **.Net, PowerShell, Security, and Cloud stuff**.`,
     `📝   Check out my [resume](https://www.linkedin.com/in/thomas-illiet).`,
-    `👾 Fun fact: Equal is Not Always Equal in Javascript.`,
+    `👾   Fun fact: Equal is Not Always Equal in Javascript.`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
 
 const favoritesTitle = generateTitle(2, `:zap: My Absolute Favorites:`);
 const favoritesConfigs = [
-    `💻   I love exploring new tech stack and building cool stuffs.`,
+    `💻   I love [exploring](https://takeb1nzyto.space) new tech stack and building cool stuffs.`,
     `📰   Reading & writing tech blogs whenever possible.`,
     `🍕   Meetups & tech events ( *with bonus beers* ).`
 ];
