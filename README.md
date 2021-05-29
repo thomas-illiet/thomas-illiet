@@ -9,11 +9,11 @@
 <li>👨🏻‍💻   Most of my projects are available on <a href="https://github.com/thomas-illiet">Github</a>.</li>
 <li>📫   Ping me about <strong>.Net, PowerShell, Security, and Cloud stuff</strong>.</li>
 <li>📝   Check out my <a href="https://www.linkedin.com/in/thomas-illiet">resume</a>.</li>
-<li>👾 Fun fact: Equal is Not Always Equal in Javascript.</li>
+<li>👾   Fun fact: Equal is Not Always Equal in Javascript.</li>
 </ul>
 <h2>⚡️ My Absolute Favorites:</h2>
 <ul>
-<li>💻   I love exploring new tech stack and building cool stuffs.</li>
+<li>💻   I love <a href="https://takeb1nzyto.space">exploring</a> new tech stack and building cool stuffs.</li>
 <li>📰   Reading &amp; writing tech blogs whenever possible.</li>
 <li>🍕   Meetups &amp; tech events ( <em>with bonus beers</em> ).</li>
 </ul>
