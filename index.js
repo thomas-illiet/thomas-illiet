@@ -48,7 +48,7 @@ const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBa
 const gif = `<img align="right" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />`;
 const factsTitle = generateTitle(2, `:zap: A Few Quick Facts`);
 const factsConfigs = [
-    `🛠   I’m currently working with .NET, PoerShell, OData, SQLServer, etc.`,
+    `🛠   I’m currently working with .NET, PowerShell, OData, SQLServer, etc.`,
     `🚀   Learning about **serverless architectures**, **distributed systems**.`,
     `👨🏻‍💻   Most of my projects are available on [Github](https://github.com/thomas-illiet).`,
     `📫   Ping me about **.Net, PowerShell, Security, and Cloud stuff**.`,
