@@ -4,7 +4,7 @@
 <img align="right" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🛠   I’m currently working with .NET, PoerShell, OData, SQLServer, etc.</li>
+<li>🛠   I’m currently working with .NET, PowerShell, OData, SQLServer, etc.</li>
 <li>🚀   Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>.</li>
 <li>👨🏻‍💻   Most of my projects are available on <a href="https://github.com/thomas-illiet">Github</a>.</li>
 <li>📫   Ping me about <strong>.Net, PowerShell, Security, and Cloud stuff</strong>.</li>
