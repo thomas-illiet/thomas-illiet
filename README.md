@@ -1,7 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/thomas-illiet">Thomas</a></h2>
 <p>I'm currently a .NET engineer based in france. I am working on some side projects, learning a couple new dishes, and trying to conquer the world of <a href="https://microsoft.com">@Microsoft</a> technologies.</p>
-<p><a href="https://www.thomas-illiet.fr"><img src="https://img.shields.io/badge/-thomas-illiet.fr-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://www.thomas-illiet.fr" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/thomas-illiet"><img src="https://img.shields.io/badge/-@thomas-illiet-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/thomas-illiet" alt="LinkedIn Badge"></a> <a href="hhttps://open.spotify.com/user/thomas-illiet"><img src="https://img.shields.io/badge/-@thomas-illiet-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=hhttps://open.spotify.com/user/thomas-illiet" alt="Spotify Badge"></a></p>
-<img align="right" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🛠   I’m currently working with .NET, PowerShell, OData, SQLServer, etc.</li>
