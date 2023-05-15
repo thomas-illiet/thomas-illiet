@@ -28,5 +28,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=thomas-illiet&show_icons=true&count_private=true"/>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=thomas-illiet.thomas-illiet" alt="visitors"></p>
