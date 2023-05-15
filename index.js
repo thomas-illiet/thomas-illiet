@@ -18,33 +18,6 @@ const BLOG_HOST = `https://thomas-illiet.fr`;
 const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Thomas', 'https://www.linkedin.com/in/thomas-illiet')}`);
 const introDescription = `I'm currently a .NET engineer based in france. I am working on some side projects, learning a couple new dishes, and trying to conquer the world of ${generateLink('@Microsoft', 'https://microsoft.com')} technologies.`;
 
-const badgeConfigs = [{
-        name: 'Website',
-        badgeText: 'thomas-illiet.fr',
-        labelBgColor: '4E69C8',
-        logoBgColor: '4E69C8',
-        logo: 'Firefox',
-        link: 'https://www.thomas-illiet.fr',
-    },
-    {
-        name: 'LinkedIn',
-        badgeText: '@thomas-illiet',
-        labelBgColor: '0077B5',
-        logoBgColor: '0077B5',
-        logo: 'LinkedIn',
-        link: 'https://www.linkedin.com/in/thomas-illiet',
-    },
-    {
-        name: 'Spotify',
-        badgeText: '@thomas-illiet',
-        labelBgColor: '1ED760',
-        logoBgColor: 'fff',
-        logo: 'Spotify',
-        link: 'hhttps://open.spotify.com/user/thomas-illiet',
-    },
-];
-const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
-
 const gif = `<img align="right" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />`;
 const factsTitle = generateTitle(2, `:zap: A Few Quick Facts`);
 const factsConfigs = [
@@ -102,15 +75,10 @@ const toolsConfig = [{
 ];
 const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generateIcon(toolConfig, toolsIconSize), '');
 
-const stats = `<img src="https://github-readme-stats.vercel.app/api?username=thomas-illiet&show_icons=true&count_private=true"/>`;
-
-const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=thomas-illiet.thomas-illiet)`;
-
 (async() => {
 
     const content = `${introTitle}\n
 ${introDescription}\n
-${badges}\n
 ${gif}\n
 ${factsTitle}\n
 ${facts}\n
@@ -119,9 +87,7 @@ ${favorites}\n
 ${toolsTitle}\n
 <p align="left">\n
     ${tools}\n
-</p>\n
-${stats}\n
-${visitors}
+</p>
 `;
 
     const markdownContent = md.render(content);
